@@ -3,13 +3,6 @@
 void main()
 {
 clrscr();
-
-cout<<"Hello"<<endl<< "all";
-cout<<endl<<"Welcome"<<endl;
-cout<<"*"<<endl;
-cout<<"* *"<<endl;
-cout<<"* * *"<<endl;
-cout<<"* * * *"<<endl;
-cout<<"* * * * *";
+cout<<"Hello all";
 getch();
 }
